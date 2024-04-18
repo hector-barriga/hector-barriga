@@ -4,8 +4,8 @@ I'm Hector, a Mexican-American mathematician interested in finances and data ana
 ## Skills and Experience
 
 * 💻 Python, R, SQL, Microsoft Office
-* 📈 Probability and Statistics
-* 📐 Problem-solving, Mathematical-modeling
+* 📈 Probability&Statistics, Math-modeling
+* 📐 Problem-solving, Math-research
 
 ### Current Work
 - 🔭 I’m currently working on Mathematical research 
