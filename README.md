@@ -1,5 +1,5 @@
 # Hector Barriga-Acosta
-I'm Hector, a Mexican-American mathematician interested in finances and data analytics. I really enjoy solving mathematical problems and doing research in the areas of applied topology and set theory. I also enjoy using technological tools like machine learning and Python to model and solve mathematical problems. Seeking to leverage expertise in mathematics and data analytics to drive innovations in the finance sector.
+I'm Hector, a Mexican-American mathematician with a strong background in statistics, computer science, and logic. I really enjoy using technological tools to model and solve mathematical problems. I also enjoy conducting research in the areas of applied topology and combinatorics. Seeking to leverage expertise in mathematics and data analytics to drive innovations in the finance sector.
 
 ## Skills and Experience
 
